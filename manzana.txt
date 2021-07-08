@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Las hay verdes y rojas. Dolces y ácidas.
+=======
+El Ades de manzana es riquisimo.
+>>>>>>> c8ca2813e69208b1015e7b4a816d177700e41116
